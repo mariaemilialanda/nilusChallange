@@ -15,5 +15,4 @@ Este proyecto es un generador de tabla de posiciones basado en reglas y eventos 
 3. Asegúrate de tener los archivos JSON con los eventos de los partidos en la carpeta `data`. Puedes agregar tus propios archivos o utilizar los archivos de ejemplo proporcionados.
 
 4. Ejecuta el siguiente comando para ejecutar el programa:
-
-      node logic.js
+       **node logic.js**
