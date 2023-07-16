@@ -1,0 +1,25 @@
+{
+  "teams": {
+    "home": "Brasil",
+    "away": "Uruguay"
+  },
+  "home_events": [
+    {
+      "event": "score",
+      "time": "47",
+      "player": "Friaca"
+    }
+  ],
+  "away_events": [
+    {
+      "event": "score",
+      "time": "66",
+      "player": "Juan Schiaffino"
+    },
+    {
+      "event": "score",
+      "time": "79",
+      "player": "Alcides Ghiggia"
+    }
+  ]
+}

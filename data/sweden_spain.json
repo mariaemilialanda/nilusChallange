@@ -1,0 +1,30 @@
+{
+  "teams": {
+    "home": "Sweden",
+    "away": "Spain"
+  },
+  "home_events": [
+    {
+      "event": "score",
+      "time": "15",
+      "player": "Stig SUNDQVIST"
+    },
+    {
+      "event": "score",
+      "time": "33",
+      "player": "Bror MELLBERG"
+    },
+    {
+      "event": "score",
+      "time": "80",
+      "player": "Karl-Erik PALMER"
+    }
+  ],
+  "away_events": [
+    {
+      "event": "score",
+      "time": "82",
+      "player": "Zarra"
+    }
+  ]
+}

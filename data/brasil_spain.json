@@ -1,0 +1,45 @@
+{
+  "teams": {
+    "home": "Brasil",
+    "away": "Sweden"
+  },
+  "home_events": [
+    {
+      "event": "score",
+      "time": "15",
+      "player": "Ademir"
+    },
+    {
+      "event": "score",
+      "time": "21",
+      "player": "Jair"
+    },
+    {
+      "event": "score",
+      "time": "31",
+      "player": "Chico"
+    },
+    {
+      "event": "score",
+      "time": "55",
+      "player": "Chico"
+    },
+    {
+      "event": "score",
+      "time": "57",
+      "player": "Ademir"
+    },
+    {
+      "event": "score",
+      "time": "67",
+      "player": "Zizinho"
+    }
+  ],
+  "away_events": [
+    {
+      "event": "score",
+      "time": "71",
+      "player": "Silvestre Igoa"
+    }
+  ]
+}

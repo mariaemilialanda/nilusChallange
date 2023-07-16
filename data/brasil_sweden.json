@@ -1,0 +1,51 @@
+{
+  "teams": {
+    "home": "Brasil",
+    "away": "Sweden"
+  },
+  "home_events": [
+    {
+      "event": "score",
+      "time": "17",
+      "player": "Ademir"
+    },
+    {
+      "event": "score",
+      "time": "36",
+      "player": "Ademir"
+    },
+    {
+      "event": "score",
+      "time": "39",
+      "player": "Chico"
+    },
+    {
+      "event": "score",
+      "time": "52",
+      "player": "Ademir"
+    },
+    {
+      "event": "score",
+      "time": "58",
+      "player": "Ademir"
+    },
+    {
+      "event": "score",
+      "time": "85",
+      "player": "Maneca"
+    },
+    {
+      "event": "score",
+      "time": "88",
+      "player": "Chico"
+    }
+  ],
+  "away_events": [
+    {
+      "event": "score",
+      "time": "67",
+      "player": "Sune Andersson",
+      "obs": "pk"
+    }
+  ]
+}

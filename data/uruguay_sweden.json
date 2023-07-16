@@ -1,0 +1,35 @@
+{
+  "teams": {
+    "home": "Uruguay",
+    "away": "Sweden"
+  },
+  "home_events": [
+    {
+      "event": "score",
+      "time": "39",
+      "player": "Alcides Ghiggia"
+    },
+    {
+      "event": "score",
+      "time": "77",
+      "player": "Oscar Miguez"
+    },
+    {
+      "event": "score",
+      "time": "85",
+      "player": "Oscar Miguez"
+    }
+  ],
+  "away_events": [
+    {
+      "event": "score",
+      "time": "5",
+      "player": "Karl-Erik PALMER"
+    },
+    {
+      "event": "score",
+      "time": "40",
+      "player": "Stig SUNDQVIST"
+    }
+  ]
+}

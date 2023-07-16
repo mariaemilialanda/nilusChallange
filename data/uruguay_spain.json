@@ -1,0 +1,30 @@
+{
+  "teams": {
+    "home": "Uruguay",
+    "away": "Spain"
+  },
+  "home_events": [
+    {
+      "event": "score",
+      "time": "29",
+      "player": "Alcides Ghiggia"
+    },
+    {
+      "event": "score",
+      "time": "73",
+      "player": "Obdulio Varela"
+    }
+  ],
+  "away_events": [
+    {
+      "event": "score",
+      "time": "37",
+      "player": "Estanislao Basora"
+    },
+    {
+      "event": "score",
+      "time": "39",
+      "player": "Estanislao Basora"
+    }
+  ]
+}
